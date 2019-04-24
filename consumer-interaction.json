@@ -1,0 +1,17 @@
+{
+    "description": "foo",
+    "request": {
+      "path": "/foo",
+      "method": "GET"
+    },
+    "response": {
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "body": {
+        "message": "Hello world"
+      }
+    }
+  }
+  
